@@ -10,6 +10,6 @@ class LI_01Cest
     public function tryToTest(AcceptanceTester $I, $scenario)
     {
         $I = new Step_01($scenario);
-        $I ->LoginFuntion_01('leanhLogin_Funtionanh','leanhbb290109');
+        $I ->LoginFuntion_01('leanhanh');
     }
 }
